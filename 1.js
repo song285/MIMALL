@@ -1,1 +1,2 @@
-var o = 1
+var o = 1;
+hjkj
