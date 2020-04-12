@@ -1,2 +1,2 @@
 var o = 1;
-hjkj
+var i = 2;
